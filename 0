@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Adrian's Stories</title>
+<style>body{max-width:700px;margin:20px auto}</style>
+</head>
+<body>
+<h1>Adrian's Stories</h1>
+<h3>Story 1</h3>
+<p>Your story here.</p>
+<h3>Story 2</h3>
+<p>Your story here.</p>
+</body>
+</html>
